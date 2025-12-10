@@ -9,7 +9,7 @@ import java.sql.SQLException; //Manejo de excepciones relacionadas a SQL
 public class Constantes {
     // Parámetros de conexión
     static final String user = "sa"; //Autenticacion en la base de datos
-    static final String contrase = "Carepapa04072005"; 
+    static final String contrase = "C"; 
     static final String connectionUrl = "jdbc:sqlserver://LAPTOP-G33I1NPP:1433;databaseName=BANCAMOVIL;encrypt=true;trustServerCertificate=true";
     //jdbc:sqlserver:// protocolo de conexión al servidor
     //LAPTOP-G32:1433: es el nombre del servidor y el puerto
